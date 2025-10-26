@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/weather_app/">
+    <file alias="Main.qml">H:/weather_app/Main.qml</file>
+    <file alias="resources/resources.qrc">H:/weather_app/resources/resources.qrc</file>
+  </qresource>
+</RCC>
+

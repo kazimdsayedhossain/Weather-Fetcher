@@ -1,0 +1,14 @@
+-rootPath
+H:/weather_app
+-cmake-output
+-output-file
+H:/weather_app/build/Desktop_Qt_6_9_2_MinGW_64_bit-release/.qt/qml_imports/appweather_app_conf.cmake
+-importPath
+H:/weather_app/build/Desktop_Qt_6_9_2_MinGW_64_bit-release/weather_app
+-importPath
+H:/weather_app/build/Desktop_Qt_6_9_2_MinGW_64_bit-release
+-importPath
+C:/Qt/6.9.2/mingw_64/qml
+-qrcFiles
+H:/weather_app/build/Desktop_Qt_6_9_2_MinGW_64_bit-release/.qt/rcc/qmake_weather_app.qrc
+H:/weather_app/build/Desktop_Qt_6_9_2_MinGW_64_bit-release/.qt/rcc/appweather_app_raw_qml_0.qrc

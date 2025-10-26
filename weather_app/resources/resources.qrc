@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../main.cpp</file>
+        <file>../main.qml</file>
+        <file>app_icon_weather.png</file>
+        <file>clear-sky.png</file>
+        <file>mist_fog.png</file>
+        <file>only_cloud.png</file>
+        <file>rain.png</file>
+        <file>snow.png</file>
+        <file>sunny_and _cloudy.png</file>
+        <file>thunder.png</file>
+    </qresource>
+</RCC>

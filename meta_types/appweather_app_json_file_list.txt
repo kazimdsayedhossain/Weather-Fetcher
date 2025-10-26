@@ -1,0 +1,1 @@
+H:/weather_app/build/Desktop_Qt_6_9_2_MinGW_64_bit-release/appweather_app_autogen/include/../EWIEGA46WW/moc_data_handler.cpp.json

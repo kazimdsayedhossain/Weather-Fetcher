@@ -1,0 +1,6 @@
+module weather_app
+typeinfo appweather_app.qmltypes
+prefer :/qt/qml/weather_app/
+Main 1.0 Main.qml
+depends QtQuick
+
